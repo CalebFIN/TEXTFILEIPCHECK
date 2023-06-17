@@ -1,0 +1,5 @@
+This is a test set of IPs to check script functionality
+
+8.8.8.8 google DNS
+1.1.1.1 Cloudflare DNS
+9.9.9.9 Quad9
