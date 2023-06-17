@@ -1,4 +1,4 @@
-# IP Pinger
+# TEXT File NODE Check
 
 This script is used to check the reachability of IP addresses by sending ICMP echo requests (pings). It reads a file containing IP addresses or network alarms and determines whether each IP is pingable or not. The script provides additional functionality by returning the full line of text associated with each IP.
 
